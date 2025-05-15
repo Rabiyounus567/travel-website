@@ -1036,6 +1036,7 @@ a {
         margin-top: 30px;
         padding-top: 30px;
         margin-left: 2rem;
+        text-align: center;
     }
 
     .footer-container {
@@ -1055,6 +1056,6 @@ a {
     .footer-div4 .para {
         margin-top: 15px;
         text-decoration: none;
-        text-align: center;
+        
     }
 }
